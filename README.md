@@ -1,0 +1,1 @@
+Hello, this is my first attempt at designing the google homepage. By doing this, I shall demonstrate basic HTML and CSS styling skills. Let's see how this goes!
