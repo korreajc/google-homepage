@@ -51,8 +51,40 @@ left: 1630px;
 bottom: -4px;
 }
 
-#logostyle{
+#footerad{
+position: relative;
+bottom: -400px;
+left: 10px;
+}
 
+#footerbusiness{
+position: relative;
+bottom: -400px;
+left: 25px;
+}
+
+#footerhsw{
+position: relative;
+bottom: -400px;
+left: 45px;
+}
+
+#footersettings{
+position: relative;
+bottom: -400px;
+left: 1590px;
+}
+
+#footerterms{
+position: relative;
+bottom: -400px;
+left: 1480px;
+}
+
+#footerprivacy{
+position: relative;
+bottom: -400px;
+left: 1370px;
 }
 
 .position{
